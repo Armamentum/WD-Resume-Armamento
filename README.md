@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Armamento's Personal Resume</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <img src="./assets/img/Logo__1_-removebg-preview.png" class="logo" alt="Security Logo">
+                <ul>
+                    <li><a href="#Home">Home</a></li>
+                    <li><a href="#overview">Overview</a></li>
+                    <li><a href="#rules">Rules</a></li>
+                    <li><a href="#resources">Resources</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="header-text">
+                <p>BSIT-CST Student</p>
+                <h1>Hi, I'm <span>WEJ</span> <br> from FEU Tech </h1>
+            </div>
+            <br/>
+            <br/>
+        </div>
+    </div>
+    <div id="counter">
+        <img src="https://visit-counter.vercel.app/counter.png?page=Armamentum/WD-Resume-Armamento">
+    </div>
+    <!-- Overview Section -->
+    <div id="overview" class="section">
+        <div class="container">
+            <h2>Overview</h2>
+            <p>Welcome to my personal resume webpage, a project developed as part of an exciting
+                school activity aimed at mastering the fundamentals of web development. 
+                This one-page resume showcases not only my skills and experiences but also my journey
+                 in learning and adapting to the world of programming. The primary purpose of this project
+                 is to understand and apply the core concepts of creating webpages. Through this exercise, 
+                 I have explored the intricacies of HTML and CSS, the building blocks of the web,
+                and learned how to craft a visually appealing and functional webpage.
+                <br><br>This webpage includes several key components: an introduction providing a brief
+                overview of who I am and my academic background, an overview section offering detailed
+                insights into the project, its goals, and the questions it aims to answer, and a section
+                outlining the rules, practices, and principles I followed to ensure a structured and
+                efficient workflow. Additionally, there is a resources section compiling valuable
+                references that guided me through this project and a contact section providing
+                ways to reach out to me for any questions or further discussions.<br><br>
+                The technologies used in this project are HTML and CSS. HTML serves as the 
+                foundation of the webpage, providing the structure and content, while 
+                CSS is the styling language that brings the visual elements to life, making the webpage engaging and user-friendly.
+                <br><br>This project has been a rewarding experience, allowing me to apply theoretical 
+                knowledge in a practical setting and enhancing my understanding of web development. 
+                I invite you to explore my resume and see the results of my dedication and hard work. Enjoy your visit!</p>
+            </ul>
+        </div>
+    </div>
+    <div id="badges">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    </div>
+    <!-- Rules Section -->
+    <div id="rules" class="section">
+        <div class="container">
+            <h2>Rules, Practices and Principles</h2>
+            <ol>
+                <li>Always remember "I am a programmer not a coder."</li>
+                <li>Always follow instructions and directions.</li>
+                <li>Practice proper citations and netiquette.</li>
+                <li>Continue learning and improving not only with programming but also in other aspects of life.</li>
+                <li>Enjoy the process of trial and error.</li>
+            </ol>
+
+        </div>
+    </div>
+    
+    <!-- Resources Section -->
+    <div id="resources" class="section">
+        <div class="container">
+            <h2>Resources</h2>
+            <table>
+                    <tr>
+                        <th>Title</th>
+                        <th>Purpose</th>
+                        <th>Link</th>
+                    </tr>
+                    <tr>
+                        <td>CSS Table Style</td>
+                        <td>Proper declaration for tables</td>
+                        <td><a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_table_padding">https://www.w3schools.com/css/tryit.asp?filename=trycss_table_padding</a></td>
+                    </tr>
+                    <tr>
+                        <td>How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design</td>
+                        <td>inspiration for webpage designs</td>
+                        <td><a href="https://www.youtube.com/watch?v=0YFrGy_mzjY&t=1408s">https://www.youtube.com/watch?v=0YFrGy_mzjY&t=1408s</a></td>
+                    </tr>
+                    <tr>
+                        <td>WD-Template-Project</td>
+                        <td>repository for resume template</td>
+                        <td><a href="https://github.com/zyx-0314/WD-Template-Project/tree/main
+                            ">    https://github.com/zyx-0314/WD-Template-Project/tree/main
+                        </a></td>
+                    </tr>
+                    <tr>
+                        <td>Canva Logo for business</td>
+                        <td>free logo from canva used for the logo in this resume</td>
+                        <td><a href="https://www.canva.com/">  https://www.canva.com/</a></td>
+                    </tr>
+                    <tr>
+                        <td>Remove bg</td>
+                        <td>used for removal of background for logo</td>
+                        <td><a href="https://www.remove.bg/">https://www.remove.bg/</a></td>
+                    </tr>
+            </table>
+        </div>
+    </div>
+    <!-- Contact Section -->
+    <div id="contact" class="section">
+        <div class="container">
+            <h2>Contact</h2>
+            <p>If you have any questions, feel free to contact me at:</p>
+            <p>Email: 202310044@fit.edu.ph</p>
+        </div>
+    </div>
+</body>
+</html>
