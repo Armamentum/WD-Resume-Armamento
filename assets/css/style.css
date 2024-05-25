@@ -19,7 +19,7 @@ body{
 }
 
 .container{
-   padding: auto;
+   padding: 10px 10vh;
 }
 nav{
     display: flex;
